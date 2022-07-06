@@ -14,6 +14,7 @@
   text-align: left;
   font-size: 50px;
   text-align: center;
+  margin : 0
 }
 
 #main-header{
@@ -22,6 +23,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+#site {
+  background-color: lightblue;
 }
 
 .présentation h2{
@@ -37,4 +42,19 @@
 .présentation h4{
   font-size: 25px;
   color: white;
+}
+
+#développé h1{
+  color: red;
+  text-decoration: underline;
+}
+
+#en-cour h1{
+  color: red;
+  text-decoration: underline;
+}
+
+#contact h1{
+  color: red;
+  text-decoration:underline;
 }
