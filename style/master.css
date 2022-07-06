@@ -1,6 +1,7 @@
 
 .blue{
   color: blue;
+  margin-top: 0;
 }
 
 .retour{
@@ -13,4 +14,27 @@
   text-align: left;
   font-size: 50px;
   text-align: center;
+}
+
+#main-header{
+  background-image: url("images/fonds/page d'accueil/page d'accueil.jpg");
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.présentation h2{
+  margin-bottom: 0;
+  color: white;
+}
+
+.présentation h3{
+  margin-top: 0;
+  color: white;
+}
+
+.présentation h4{
+  font-size: 25px;
+  color: white;
 }
