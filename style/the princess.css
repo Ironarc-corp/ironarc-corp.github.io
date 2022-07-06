@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Medieval";
+  src: url("font/MedievalSharp-Regular.ttf");
+}
+
+.Medieval
+{
+  font-family: "Medieval";
+  text-align: center;
+  font-size: 90px;
+}
+
+#body-princess{
+  background-image: url("images/fonds/test.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.galerie-the-princess{
+  <img src="../style/images/galerie the princess/menu.jpg">
+}
+
+.description{
+  font-family: "Medieval";
+  font-size: 30px;
+  color: red;
+  text-align: center;
+}
+
+.description-medieval p{
+
+  font-family: "Medieval";
+  text-align: center;
+}

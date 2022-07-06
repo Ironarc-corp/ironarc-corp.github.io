@@ -1,51 +1,16 @@
-@font-face {
-  font-family: "Medieval";
-  src: url("font/MedievalSharp-Regular.ttf");
-}
 
 .blue{
   color: blue;
 }
 
-.Medieval
-{
-  font-family: "Medieval";
-  text-align: center;
-  font-size: 90px;
-}
-
-#body-princess{
-  background-image: url("images/fonds/test.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.galerie-the-princess{
-  <img src="../style/images/galerie the princess/menu.jpg">
+.retour{
+  text-align: left;
+  font-size: 15px;
 }
 
 .Construction{
-  font-family: "Medieval";
   color: #1CF7F7;
   text-align: left;
   font-size: 50px;
   text-align: center;
-}
-
-.description{
-  font-family: "Medieval";
-  font-size: 30px;
-  color: red;
-  text-align: center;
-}
-
-.text-the-princess{
-
-  font-family: "Medieval";
-  text-align: center;
-}
-
-.retour{
-  text-align: left;
-  font-size: 15px;
 }
