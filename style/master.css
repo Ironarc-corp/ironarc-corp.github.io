@@ -58,3 +58,18 @@
   color: red;
   text-decoration:underline;
 }
+
+#contact-container {
+  display: flex;
+  gap: 10px;
+}
+
+#social{
+  display: flex;
+  gap: 10px;
+}
+
+.icones-contact {
+  height: 40px;
+  width: auto;
+}
