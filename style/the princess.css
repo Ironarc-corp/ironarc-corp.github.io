@@ -16,9 +16,6 @@
   background-repeat: no-repeat;
 }
 
-.galerie-the-princess{
-  <img src="../style/images/galerie the princess/menu.jpg">
-}
 
 .description{
   font-family: "Medieval";
@@ -27,8 +24,13 @@
   text-align: center;
 }
 
+
 .description-medieval {
 
   font-family: "Medieval";
   text-align: center;
+}
+
+.image-jeu img{
+  height: 300px;
 }
